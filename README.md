@@ -12,11 +12,11 @@ Start by including the necessary files.
 
 ```
 <head>
-	<link href="css/demo.min.css" rel="stylesheet" type="text/css">
+	<link href="webplate-demo/css/demo.min.css" rel="stylesheet" type="text/css">
 </head>
 <body>
     /* Your content goes here */
-    <script src="js/demo.min.js"></script>
+    <script src="webplate-demo/js/demo.min.js"></script>
 </body>
 ```
 
