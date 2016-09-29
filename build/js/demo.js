@@ -563,3 +563,7 @@
 	})();
 }()
 prettyPrint();
+
+// Toggle view
+document.getElementById('web-demo-message').style.display = 'none';
+document.getElementById('web-demo').style.display = 'block';
