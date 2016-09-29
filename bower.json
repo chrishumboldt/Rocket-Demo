@@ -1,7 +1,7 @@
 {
   "name": "webplate-demo",
   "description": "The Webplate demo component.",
-  "main": "",
+  "main": ["css/demo.min.css", "js/demo.min.js"],
   "authors": [
     "Chris Humboldt"
   ],
