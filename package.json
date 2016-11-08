@@ -1,6 +1,6 @@
 {
    "name": "rocket-demo",
-   "version": "2.0.0",
+   "version": "2.0.1",
    "description": "The Rocket demo component.",
    "repository": {
       "type": "git",
@@ -18,6 +18,9 @@
       "url": "https://github.com/chrishumboldt/Rocket-Demo/issues"
    },
    "homepage": "https://github.com/chrishumboldt/Rocket-Demo#readme",
+	"devDependencies": {
+		"rocket-propel": "^3.0.0"
+	},
    "rocket": {
       "build": [
          "build/js/demo.js",
