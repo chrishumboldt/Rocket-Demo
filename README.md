@@ -1,22 +1,22 @@
-# Webplate Demo
-The Webplate demo component.
+# Rocket Demo
+The Rocket demo component.
 
 ## Getting Started
-You can either download a copy of the source files or install Webplate Demo via Bower.
+You can either download a copy of the source files or install via NPM.
 
 ```
-bower install webplate-demo
+npm install rocket-demo
 ```
 
 Start by including the necessary files.
 
 ```
 <head>
-	<link href="webplate-demo/css/demo.min.css" rel="stylesheet" type="text/css">
+	<link href="rocket-demo/css/demo.min.css" rel="stylesheet" type="text/css">
 </head>
 <body>
     /* Your content goes here */
-    <script src="webplate-demo/js/demo.min.js"></script>
+    <script src="rocket-demo/js/demo.min.js"></script>
 </body>
 ```
 
@@ -27,7 +27,7 @@ Twitter: <a href="https://twitter.com/chrishumboldt">twitter.com/chrishumboldt</
 GitHub <a href="https://github.com/chrishumboldt">github.com/chrishumboldt</a><br>
 
 ## Copyright and License
-Copyright 2016 Webplate Project
+Copyright 2016 Rocket Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

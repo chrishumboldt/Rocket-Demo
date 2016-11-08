@@ -21,8 +21,5 @@
 	 "bower.json",
 	 "build",
 	 "index.html"
-  ],
-  "devDependencies": {
-	  "blueplate": "^2.2.2"
-  }
+  ]
 }

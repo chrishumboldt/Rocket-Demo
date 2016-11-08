@@ -565,5 +565,5 @@
 prettyPrint();
 
 // Toggle view
-document.getElementById('web-demo-message').style.display = 'none';
-document.getElementById('web-demo').style.display = 'block';
+document.getElementById('rocket-demo-message').style.display = 'none';
+document.getElementById('rocket-demo').style.display = 'block';
